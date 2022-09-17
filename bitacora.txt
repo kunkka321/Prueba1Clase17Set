@@ -1,1 +1,3 @@
 Primeras pruebas con git
+Se realizo la primera edicion del documento bitacora.txt para pruebas con el 
+comando nano bitacora.txt
